@@ -5,7 +5,7 @@
   "author": "jan-rozycki",
   "private": true,
   "scripts": {
-    "test":  "testcafe \"saucelabs:Chrome@beta:Windows 10\" tests/index-test.js"
+    "test":  "testcafe \"saucelabs:Chrome@beta:Windows 10\" tests/SmokeTest.js"
   },
   "dependencies": {
     "debug": "2.6.8",
